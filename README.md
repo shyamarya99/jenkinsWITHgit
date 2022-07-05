@@ -1,0 +1,2 @@
+# jenkinsWITHgit
+for practical
